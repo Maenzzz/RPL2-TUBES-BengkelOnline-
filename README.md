@@ -1,2 +1,4 @@
-1.extract zip laravel ke folder/n
-2.jalankan laravel seperti biasa
+1.file zip itu adalah keseluruhan folder laravel jadi extract zip laravel ke folder dan jalan kan seperti biasa
+
+
+
